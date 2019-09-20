@@ -1,4 +1,4 @@
-# Learn-HTML
+# Learn HTML
 
 ## INTRODUCTION TO HTML
 What is HTML?
