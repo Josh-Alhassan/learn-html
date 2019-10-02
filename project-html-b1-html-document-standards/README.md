@@ -12,9 +12,8 @@ To code this project you need to know The <html> tag
 , Indentation
 , Comments
 , HTML Tags
-, Review
 
-If you are not familier with them please read Learn HTML eBook from (https://codingwithbasir.com/learn-html)
+If you are not familier with them download Learn HTML eBook from (https://codingwithbasir.com/learn-html)
 
 ## Project Title: Personal Blog
 
