@@ -19,3 +19,7 @@ If you are not familier with them download Learn HTML eBook from (https://coding
 10. Create `h2` next to `ol` tag with this content: `My Photo`
 11. Create `img` next to `h2` tag and set src to `https://i.pravatar.cc/300`. Also set alt to `my photo`
 12. Create `video` next to `img` tag and set src to `https://youtu.be/t67_zAg5vvI`.
+
+
+## How to deliver this project
+Check this link: https://codingwithbasir.com/how-to-deliver-projects/
