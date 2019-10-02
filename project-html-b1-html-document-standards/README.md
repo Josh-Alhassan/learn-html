@@ -36,3 +36,6 @@ If you are not familier with them download Learn HTML eBook from (https://coding
 16. Add a `a` inside this div with this title: `Search Google` and link it to `https://google.com`.
 17. Add another `a` inside this div with this title: `Back To Top` and link it with `#` to top of this page.
 18. Check the result in the Chrome.
+
+## How to deliver this project
+Check this link: https://codingwithbasir.com/how-to-deliver-projects/
