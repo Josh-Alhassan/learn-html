@@ -1,6 +1,6 @@
 # Project HTML B1 HTML Document Standards
 
-You need to know The <html> tag
+To code this project you need to know The <html> tag
 , The Head
 , Page Titles
 , Linking to Other Web Pages
@@ -16,7 +16,8 @@ You need to know The <html> tag
 
 If you are not familier with them please read Learn HTML eBook from (https://codingwithbasir.com/learn-html)
 
-## Personal Blog
+## Project Title: Personal Blog
+
 1. Create a folder with your name in this folder like `john`.
 2. Go to that folder
 3. Create `index.html` in that folder.
